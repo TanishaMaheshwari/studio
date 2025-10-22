@@ -1,0 +1,8 @@
+[
+  {
+    "id": "acc_opening_balance_equity_book_default",
+    "name": "Opening Balance Equity",
+    "categoryId": "cat_equity_book_default",
+    "bookId": "book_default"
+  }
+]
